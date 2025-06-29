@@ -23,8 +23,8 @@ function createImage() {
   const imgA = document.createElement('img');
   imgA.src = getRandomImage();
   imgA.alt = 'img';
-  imgA.style.width= "200px";
-  imgA.style.height= "200px";
+  // imgA.style.width= "200px";
+  // imgA.style.height= "200px";
   imgA.classList.add('falling-img');
 
   imgA.style.left = Math.random() * 90 + "vw";
@@ -35,7 +35,7 @@ function createImage() {
   setTimeout(() => imgA.remove(), 6000);
 }
 // Intervalo para dejar caer imágenes
-setInterval(createImage, 2500);
+setInterval(createImage, 1500);
 
 
 // Función para crear corazones 💗
