@@ -15,7 +15,7 @@ const milestones = [
         monthsReq: 6,
         label: '0.6',
         title: 'Nuestros primeros 6 meses',
-        content: `Hola mi amor,<br><br>Parece que fue ayer cuando paseamos todo el puerto santa como 3 veces,<br><br>
+        content: `Parece que fue ayer,<br><br>Parece que fue ayer cuando paseamos todo el puerto santa como 3 veces,
                     parece que fue ayer cuando cocinamos por primera vez,
                     parece que fue ayer cuando nos dimos nuestro primer beso apasionado,
                     parece que fue ayer cuando conoci a parte de tu linda familia,
